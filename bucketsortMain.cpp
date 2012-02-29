@@ -9,4 +9,5 @@ int main(){
   cin >> word ;
   
   bucketsort().sort(word);
+
 }
